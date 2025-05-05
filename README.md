@@ -33,6 +33,33 @@ A **step‑by‑step Java Swing + MySQL project** that connects the fundament
 
 ---
 
+## 📁 Git Branch Strategy
+
+This project uses a **branch-per-video** approach to clearly illustrate each stage of development:
+
+* `main`: Contains the complete and finalized system.
+* `video-xx-feature-name`: Represents the state of the project at the end of each corresponding video.
+
+**Example:**
+
+* `video-01-gui-skeleton`
+* `video-02-database-schema`
+* `video-03-student-crud`
+
+### How to use branches:
+
+Clone and checkout a specific video branch:
+
+```bash
+git clone https://github.com/nuwanAsiri/student-enroll-system.git
+cd student-enroll-system
+git checkout video-01-gui-skeleton
+```
+
+You can then explore and compare changes between branches directly on GitHub.
+
+---
+
 ## Tech Stack
 
 * Java 17  (works with 11+)  
