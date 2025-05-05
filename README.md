@@ -6,7 +6,7 @@ A **step‑by‑step Java Swing + MySQL project** that connects the fundament
 
 | Login Dialog | Main Window | Student Management | Subject Management | Enrollment Management |
 |--------------|-------------|--------------------|--------------------|-----------------------|
-| ![Login](docs/screenshots/login.png) || ![Home](docs/screenshots/home.png) | ![Student Management](docs/screenshots/student-management.png) | ![Subject Management](docs/screenshots/subject-management.png) | | ![Enrollment Management](docs/screenshots/enrollment-management.png) |
+| ![Login](docs/screenshots/login.png) | ![Home](docs/screenshots/home.png) | ![Student Management](docs/screenshots/student-management.png) | ![Subject Management](docs/screenshots/subject-management.png) | ![Enrollment Management](docs/screenshots/enrollment-management.png) |
 
 ---
 
