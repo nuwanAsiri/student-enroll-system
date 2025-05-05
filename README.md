@@ -35,9 +35,9 @@ A **step‑by‑step Java Swing + MySQL project** that connects the fundament
 
 ## Prerequisites
 
-* JDK 17+ 
-* MySQL 8+ 
-* NetBeans 17 or IntelliJ/Eclipse if you prefer
+* JDK 17+
+* MySQL 8+
+* NetBeans 17 or IntelliJ/Eclipse if you prefer
 
 ## Getting Started
 
@@ -50,12 +50,12 @@ cd student-enroll-system
 # create a local MySQL schema called 'lankadroid_student_enroll' TBU
 # hit Run (F6) – the main screen should load
 ```
-## Contributing
+## 🤝 Contributing
 
 1. Fork the repository
 2. Create your feature branch: git checkout -b feature/my-idea
 3. Commit your changes
 4. Push and open a Pull Request
 
-## License
+## 📜 License
 MIT – do anything, just give credit.
