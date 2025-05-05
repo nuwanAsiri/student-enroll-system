@@ -2,6 +2,15 @@ A **step‑by‑step Java Swing + MySQL project** that connects the fundament
 
 ---
 
+## 📸 GUI Preview
+
+| Login Dialog | Main Window | Student Management | Subject Management | Enrollment Management |
+|--------------|-------------|--------------------|--------------------|-----------------------|
+| ![Login](docs/screenshots/login.png) || ![Home](docs/screenshots/home.png) | ![Student Management](docs/screenshots/student-management.png) | ![Subject Management](docs/screenshots/subject-management.png) | | ![Enrollment Management](docs/screenshots/enrollment-management.png) |
+
+---
+
+
 ## Learning Goals
 
 * Design a small‑scale CRUD application from scratch  
@@ -33,8 +42,7 @@ A **step‑by‑step Java Swing + MySQL project** that connects the fundament
 
 ---
 
-## Prerequisites
-
+**Prerequisites**
 * JDK 17+
 * MySQL 8+
 * NetBeans 17 or IntelliJ/Eclipse if you prefer
