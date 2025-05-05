@@ -1,7 +1,4 @@
-# Create a clean README.md file for the "student-enroll-system" repository
-readme_content = """# Student Enroll System
-
-A **step‑by‑step Java Swing + MySQL project** that connects the fundamentals we’ve covered on the YouTube channel—Java basics, OOP, ER diagrams, relational schema, MySQL, and GUI design—into a *working* student‑enrollment system.
+A **step‑by‑step Java Swing + MySQL project** that connects the fundamentals we’ve covered on our "LankaDroid Programming Kuppiya" YouTube channel (Java basics, OOP, ER diagrams, relational schema, MySQL, and GUI design) into a *working* student‑enrollment system.
 
 ---
 
