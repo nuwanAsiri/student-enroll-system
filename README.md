@@ -29,10 +29,14 @@ A **step‑by‑step Java Swing + MySQL project** that connects the fundament
 * Java 17  (works with 11+)  
 * Swing (NetBeans GUI Builder)  
 * MySQL 8  
-* Maven (build & dependencies)  
 * JUnit 5 (unit tests, later stage)
 
 ---
+
+## Prerequisites
+* JDK 17+ 
+* MySQL 8+ 
+* NetBeans 17 or IntelliJ/Eclipse if you prefer
 
 ## Getting Started
 
