@@ -34,6 +34,7 @@ A **step‑by‑step Java Swing + MySQL project** that connects the fundament
 ---
 
 ## Prerequisites
+
 * JDK 17+ 
 * MySQL 8+ 
 * NetBeans 17 or IntelliJ/Eclipse if you prefer
