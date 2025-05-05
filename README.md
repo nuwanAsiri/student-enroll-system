@@ -24,8 +24,8 @@ A **step‑by‑step Java Swing + MySQL project** that connects the fundament
 
 | # | Video & Focus | Core Concepts | What we build live | Branch Name | Video Link |
 |---|---------------|---------------|--------------------|-------------|------------|
-| 0 | **Teaser (90 sec)** | Why the project matters • feature tour | Quick demo of finished app | — | `TBU` |
-| 1 | Requirements & Use‑Cases | Functional vs. non‑functional | White‑board 5 use‑cases | `TBU` | `TBU` |
+| 0 | **Teaser** | Why the project matters • feature tour | Quick demo of finished app | — | `TBU` |
+| 1 | Requirements & Use‑Cases | Functional vs. non‑functional | Draw use-case diagram | `TBU` | `TBU` |
 | 2 | Domain & ER Diagram | Entities • relationships | Draw ER (Student‑Course‑Enrollment) | `TBU` | `TBU` |
 | 3 | Relational Schema | PK/FK • 3 NF recap | Convert ER → tables | `TBU` | `TBU` |
 | 4 | MySQL Setup | Workbench • seed data | Create schema, insert sample rows | `TBU` | `TBU` |
