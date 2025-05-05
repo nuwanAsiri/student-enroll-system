@@ -20,16 +20,28 @@ A **step‑by‑step Java Swing + MySQL project** that connects the fundament
 
 ---
 
-## Roadmap
+## Roadmap / Episode Playlist  🚧
 
-1. **GUI Skeleton** – build the screens in NetBeans  
-2. **Database Schema** – MySQL tables & sample data  
-3. **Student CRUD** – add / edit / delete students  
-4. **Course CRUD** – manage course catalogue  
-5. **Enrollment Flow** – register students for courses  
-6. **Tests & Refactor** – JUnit 5 and code cleanup  
+| # | Video & Focus | Core Concepts | What we build live | Homework branch |
+|---|---------------|--------------|--------------------|-----------------|
+| 0 | **Teaser (90 sec)** | Why the project matters • feature tour | Quick demo of finished app | — |
+| 1 | Requirements & Use‑Cases | Functional vs. non‑functional | White‑board 5 use‑cases | `TBU` |
+| 2 | Domain & ER Diagram | Entities • relationships | Draw ER (Student‑Course‑Enrollment) | `TBU` |
+| 3 | Relational Schema | PK/FK • 3 NF recap | Convert ER → tables | `TBU` |
+| 4 | MySQL Setup | Workbench • seed data | Create schema, insert sample rows | `TBU` |
+| 5 | Java Kick‑off (NetBeans) |  • JDBC | Bootstrapped project skeleton | `TBU` |
+| 6 | Student DAO & CRUD | DAO pattern | Implement `StudentDao` | `TBU` |
+| 7 | Course & Enrollment DAO | Join queries | Batch enroll/unenroll | `TBU` |
+| 8 | Service Layer & Validation | Business rules • exceptions | `EnrollmentService` | `TBU` |
+| 9 | Swing UI Sketches | MVC in desktop apps | Layout screens in NetBeans | `TBU` |
+|10 | Student Maintenance UI | Event handling refresher | Table + dialog | `TBU` |
+|11 | Course Maintenance UI | Reuse vs. copy‑paste | Mirror of Student UI | `TBU` |
+|12 | Enrollment Screen | Combos • live search | Multi‑step dialog | `TBU` |
+|13 | Error Handling & Logging | SLF4J • global dialog | Rolling log file | `TBU` |
+|14 | Packaging & Distribution | Shade plugin • exe wrapper | Runnable JAR + Windows exe | `TBU` |
+|15 | **Wrap‑up & Next Steps** | Recap • refactor ideas | Showcase & GitHub tour | `TBU` |
 
-*(Each step will be a separate YouTube video **and** a dedicated Git branch.)*
+> 📝 **Tip:** Each branch starts from the previous episode’s tag so you can follow along or jump in anywhere.
 
 ---
 
