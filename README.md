@@ -60,6 +60,36 @@ You can then explore and compare changes between branches directly on GitHub.
 
 ---
 
+## 🛠 GitHub Collaboration
+
+### Issues
+
+Use [GitHub Issues](https://github.com/nuwanAsiri/student-enroll-system/issues) to:
+
+* Ask questions or clarify doubts related to specific videos or concepts
+* Report bugs and request enhancements
+* Discuss and collaborate openly with peers
+
+### Pull Requests (PRs)
+
+Submit your improvements via [Pull Requests](https://github.com/nuwanAsiri/student-enroll-system/pulls):
+
+* Fork the repository
+* Create your feature branch (`git checkout -b feature/my-idea`)
+* Commit your changes
+* Push your branch and open a PR for review
+
+### Discussions
+
+Use [GitHub Discussions](https://github.com/nuwanAsiri/student-enroll-system/discussions) to:
+
+* Engage in broader topic discussions and Q\&A sessions
+* Share insights, challenges, and best practices with the community
+* Get feedback on ideas or conceptual understanding
+
+---
+
+
 ## Tech Stack
 
 * Java 17  (works with 11+)  
